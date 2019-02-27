@@ -5,7 +5,8 @@ function alfA(){
                 '<br /><br /><strong>API (Application Programming Interface)</strong>  – Interface de Programação de Aplicativos.É um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web.' +
                 '<br /><br /><strong>APP</strong> – Aplicativo ou Software desenvolvido para executar uma função específica, normalmente para o usuário.' +
                 '<br /><br /><strong>Analyser</strong> – Analisador. Sistema onde se encontra todos os relatórios.' +
-                '<br /><br /><strong>ARP (Address Resolution Protocol)</strong> – Protocolo de Resolução de Endereço. É um padrão da telecomunicação, mais especificamente em redes de computadores, usado para resolução de endereços da camada de internet em endereços da camada de enlace.';
+                '<br /><br /><strong>ARP (Address Resolution Protocol)</strong> – Protocolo de Resolução de Endereço. É um padrão da telecomunicação, mais especificamente em redes de computadores, usado para resolução de endereços da camada de internet em endereços da camada de enlace.'+
+                '<br /><br />ARRAY<strong></strong> – rranjo; estrutura de dados que armazena uma coleção de elementos. Também é conhecida como variável indexada, vetor e matriz.'; 
 
     varA.innerHTML = textA;
 }
@@ -17,7 +18,8 @@ function alfB(){
                 '<br /><br /><strong>Botnet</strong> – RColeção de agentes de software ou bots que executam autonomamente e automaticamente. São “robôs” que tentam infectar máquinas.' +
                 '<br /><br /><strong>Backup</strong> – Rotina de segurança utilizada para a armazenagem, ou seja uma cópia de dados ou configurações, normalmente em mídia removível, de toda ou parte das informações existentes nos discos rígidos ou na rede.' +
                 '<br /><br /><strong>BIG DATA</strong> – Grandes aglomerados de dados.' +
-                '<br /><br /><strong>BUG</strong> – Erro ou falha em um código de uma aplicação.';
+                '<br /><br /><strong>BUG</strong> – Erro ou falha em um código de uma aplicação.' +
+                '<br /><br /><strong>BUNKER</strong> – Espaço físico fechado e controlado para armazenamento de Datacenter.';
         
     varB.innerHTML = textB;
 }
@@ -46,7 +48,7 @@ function alfD(){
                 '<br /><br /><strong>DVD (Disk Vídeo Device)</strong> – Dispositivo para disco de vídeo';
 
     varD.innerHTML = textD;
-}
+}Espaço físico fechado e controlado para armazenamento de Datacenter.
 
 function alfE(){
     var varE = document.getElementById('A');
