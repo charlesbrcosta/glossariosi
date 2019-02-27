@@ -8,7 +8,7 @@ body{
 }
 
 .principal{
-    height:900px;
+    height:1000px;
     margin:auto;
 }
 
@@ -67,7 +67,7 @@ nav{
 .menu li{
     float:left;
     padding-left:3px;
-    padding-right:4px;
+	padding-right:4px;
     line-height: 60px;
     height:60px;
 }
@@ -91,7 +91,6 @@ nav{
 
 section{
     width:1040px;
-    height:800px;
     margin:auto;
     text-align:justify;
 }
