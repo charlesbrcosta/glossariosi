@@ -8,28 +8,29 @@ body{
 }
 
 .principal{
-    height:1024px;
+    height:1000px;
+    margin:auto;
 }
 
 header{
-    height:250px;
+    height:250px;    
+    margin:auto;
 }
 
 .posicao{
-    width:1060px;
+    width:1000px;
     margin:auto;
-    
+    color:#FFFFFF;
 }
 
 .left{
     float:left;
-    margin-top:30px;
+    padding-top:40px;
 }
 
 .right{
-    float:right;   
-    margin-right:350px; 
-    margin-top:20px;
+    float:left;
+    padding-top:20px;    
 }
 
 .fraseTitulo h1{
@@ -44,14 +45,17 @@ header{
     color:#000000;
 }
 
-.menu{
-    width:1024px;
-    margin:auto;
-}
 nav{
-   height:60px;
-   background-color:#6cce53; 
+
+    height:60px;
+    background-color:#6cce53;    
+ }
+
+.menu{
+   width:1048px;
+   margin:auto; 
 }
+
 
 .menu ul,
 .menu li{
@@ -62,13 +66,13 @@ nav{
 
 .menu li{
     float:left;
-    margin-top:15px;
-    margin-left:9px;
+    padding-left:3px;
+	padding-right:4px;
+    line-height: 60px;
+    height:60px;
 }
 
 .alfabeto{
-    /* border:3px solid #f80000; */
-    /* border-style:outset; */
     border:2px solid #478039;
     border-style:outset;
     border-radius:2em 1em 4em / 0.5em 3em;
@@ -82,12 +86,11 @@ nav{
 .alfabeto:hover{
     border:2px solid #f80000;
     border-style:outset;
-    border-radius:2em 1em 4em / 0.5em 3em;
     background:#f80000;
 }
 
 section{
-    width:1024px;
+    width:1040px;
     margin:auto;
     text-align:justify;
 }
@@ -99,12 +102,3 @@ footer{
     color:#ffffff;
     text-align:center; 
 }
-
-/* .copyright span{
-    border:2px solid #ffffff;
-    border-radius:100%;
-    display:inline-block;
-    line-height:8.5px;
-    width:10px;
-    height:10px;
-} */
