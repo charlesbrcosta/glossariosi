@@ -6,7 +6,7 @@ function alfA(){
                 '<br /><br /><strong>APP</strong> – Aplicativo ou Software desenvolvido para executar uma função específica, normalmente para o usuário.' +
                 '<br /><br /><strong>Analyser</strong> – Analisador. Sistema onde se encontra todos os relatórios.' +
                 '<br /><br /><strong>ARP (Address Resolution Protocol)</strong> – Protocolo de Resolução de Endereço. É um padrão da telecomunicação, mais especificamente em redes de computadores, usado para resolução de endereços da camada de internet em endereços da camada de enlace.'+
-                '<br /><br />ARRAY<strong></strong> – Arranjo é uma estrutura de dados que armazena uma coleção de elementos. Também é conhecida como variável indexada, vetor e matriz.'; 
+                '<br /><br /><strong>ARRAY</strong> – Arranjo é uma estrutura de dados que armazena uma coleção de elementos. Também é conhecida como variável indexada, vetor e matriz.'; 
 
     varA.innerHTML = textA;
 }
