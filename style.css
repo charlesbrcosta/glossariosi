@@ -8,7 +8,7 @@ body{
 }
 
 .principal{
-    height:1000px;
+    height:850px;
     margin:auto;
 }
 
@@ -97,8 +97,8 @@ section{
 
 footer{
     background:#f30000;
-    height:60px;  
-    line-height:60px;
+    height:50px;  
+    line-height:50px;
     color:#ffffff;
     text-align:center; 
 }
