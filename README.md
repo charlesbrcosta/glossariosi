@@ -6,5 +6,5 @@
 
 
 # Objetivo
-- Colocar em pratica o conhecimento adquirido as novas tecnologias para o desenvolvimento e aprimoramento do mesmo.
+- Colocar em pratica o conhecimento adquirido as tecnologias existentes para o desenvolvimento e aprimoramento do mesmo.
  
